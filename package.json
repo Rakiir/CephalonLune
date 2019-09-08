@@ -1,0 +1,11 @@
+{
+	"name": "cephalon-lune",
+	"version": "1.0.0",
+	"description": "A clan Eidolon coordination and team manager bot for Digital Extreme's game Warframe.",
+	"main": "bot.js",
+	"author": "@TrCastle7#6766",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.2.1"
+	}
+}
